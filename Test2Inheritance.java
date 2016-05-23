@@ -78,3 +78,7 @@ public class Test2Inheritance {
     }
     
 }
+
+//1. Please create an Automabile class that implement Drive.  Truck/Sport extends Automobile
+//2. Need to implement toString ....About is good, but not generic
+
